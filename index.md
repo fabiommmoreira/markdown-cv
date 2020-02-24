@@ -8,7 +8,7 @@ Software Engineer.
 
 ## Currently
 
-Working as a Software Engineer @ (YLD)[https://www.yld.io/]
+Working as a Software Engineer @ [YLD](https://www.yld.io/)
 
 ### Summary
 
@@ -18,7 +18,8 @@ I’m a dynamic person, invested in learning and keep evolving in a variety of f
 ## Experience
 
 `April 2018 - Present`
-__Software Engineer__, YLD
+__Software Engineer__, [YLD](https://www.yld.io/)
+
 
 - Worked on several projects with different tech stacks.
     - DAZN - live sports streaming service
@@ -29,67 +30,41 @@ __Software Engineer__, YLD
     - yld.io - company website
 
 `July 2016 - April 2018`
-__Frontend Developer__, Mindera
+__Frontend Developer__, [Mindera](https://mindera.com/)
+
 
 - FE developer on TVG (horse race betting platform) project.
 
 
 `January 2015 - July 2016`
-__Web Developer__, IPBrick, S.A.
+__Web Developer__, [IPBrick, S.A.](https://www.ipbrick.com/)
 
 - Worked as Full-stack developer on IPortalDoc (document management and workflow web application).
 
 
 ### Technologies & Tools
-Core:
-- Javascript
-- HTML5
-- CSS3
-- Node
-- pHp
-- SQL
-- git
+Some technologies I've worked with:
 
-Frameworks & libraries:
-- React
-- Vue.js
-- AngularJS
-- Next.js
-- Nuxt.js
-- Bootstrap
-- Material UI
+###### Core:
+Javascript / HTML5 / CSS3 / Node / pHp / SQL / git
 
-State management:
-- Redux
-- Vuex
-- mobx-state-tree
+###### Frameworks & libraries:
+React / Vue.js / AngularJS / Next.js / Nuxt.js / Bootstrap / Material UI
 
-Tests:
-- Jest
-- Testing Library
-- AVA
-- Cucumber
-- Cypress
+###### State management:
+Redux / Vuex / mobx-state-tree
 
-Styles:
-- Styled-components
-- Emotion
-- CSS modules
-- LESS
-- post-css
+###### Testing:
+Jest / Testing Library / AVA / Cucumber / Cypress
 
-Building tools:
-- Webpack
-- Grunt
+###### Styling:
+Styled-components / Emotion / CSS modules / LESS / post-css
 
-Other:
-- GraphQL
-- Gatsby
-- Algolia
-- StoryBook
-- Contentful
-- yarn 
-- npm
+###### Building tools:
+Webpack / Grunt
+
+###### Other:
+GraphQL / Gatsby / Algolia / StoryBook / Contentful / yarn / npm
 
 
 ## Education
