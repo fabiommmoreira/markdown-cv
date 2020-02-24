@@ -43,7 +43,7 @@ __Web Developer__, [IPBrick, S.A.](https://www.ipbrick.com/)
 
 
 ### Technologies & Tools
-Some technologies I've worked with:
+Some of the technologies I've worked with:
 
 **Core:**
 Javascript / HTML5 / CSS3 / Node / pHp / SQL / git
