@@ -45,8 +45,11 @@ __Web Developer__, [IPBrick, S.A.](https://www.ipbrick.com/)
 ### Technologies & Tools
 Some of the technologies I've worked with:
 
-**Core:**
-Javascript / HTML5 / CSS3 / Node / pHp / SQL / git
+**FE Core:**
+Javascript / TypeScript / HTML5 / CSS3 / GraphQL
+
+**Backend:**
+Node / pHp / SQL / Koa / typeorm
 
 **Frameworks & libraries:**
 React / Vue.js / AngularJS / Next.js / Nuxt.js / Bootstrap / Material UI
@@ -63,8 +66,11 @@ Styled-components / Emotion / CSS modules / LESS / post-css
 **Building tools:**
 Webpack / Grunt
 
+**Version control:**
+GitHub / GitLab / Bitbucket / AWS CodeCommit
+
 **Other:**
-GraphQL / Gatsby / Algolia / StoryBook / Contentful / yarn / npm
+ Gatsby / Algolia / StoryBook / Contentful / yarn / npm
 
 
 ## Education
