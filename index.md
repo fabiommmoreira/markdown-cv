@@ -23,8 +23,8 @@ __Software Engineer__, [YLD](https://www.yld.io/)
 
 - Worked on several projects with different tech stacks.
     - DAZN - live sports streaming service
-    - Farfetch - live sports streaming service
-    - Bombinate - live sports streaming service
+    - Farfetch - luxury fashion e-commerce
+    - Bombinate - quality brands e-commerce
     - Joyent - open source and Hybrid Cloud Infrastructure as a Service
     - Aidence - radiology annotation software
     - yld.io - company website
