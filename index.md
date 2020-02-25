@@ -49,7 +49,7 @@ Some of the technologies I've worked with:
 Javascript / TypeScript / HTML5 / CSS3 / GraphQL
 
 **Backend:**
-Node.js / pHp / SQL / Koa / typeorm
+Node.js / pHp / SQL / Koa / TypeORM
 
 **Frameworks & libraries:**
 React / Vue.js / AngularJS / Next.js / Nuxt.js / Bootstrap / Material UI
