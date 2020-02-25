@@ -1,114 +1,91 @@
 ---
 layout: cv
-title: Fábio Moreira's CV
+title: Isaac Newtons's CV
 ---
-# Fábio Moreira
-Software Engineer.
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
 
 ## Currently
 
-Working as a Software Engineer @ (YLD)[https://www.yld.io/]
+Standing on the shoulders of giants
 
-### Summary
+### Specialized in
 
-Hi, my name is Fábio and I’m an Engineer.
-I’m a dynamic person, invested in learning and keep evolving in a variety of fields. I love technology but I’m also devoted to arts and sports. I’m highly sociable and a good team player. 
-
-## Experience
-
-`April 2018 - Present`
-__Software Engineer__, YLD
-
-- Worked on several projects with different tech stacks.
-    - DAZN - live sports streaming service
-    - Farfetch - live sports streaming service
-    - Bombinate - live sports streaming service
-    - Joyent - open source and Hybrid Cloud Infrastructure as a Service
-    - Aidence - radiology annotation software
-    - yld.io - company website
-
-`July 2016 - April 2018`
-__Frontend Developer__, Mindera
-
-- FE developer on TVG (horse race betting platform) project.
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
-`January 2015 - July 2016`
-__Web Developer__, IPBrick, S.A.
+### Research interests
 
-- Worked as Full-stack developer on IPortalDoc (document management and workflow web application).
-
-
-### Technologies & Tools
-Core:
-- Javascript
-- HTML5
-- CSS3
-- Node
-- pHp
-- SQL
-- git
-
-Frameworks & libraries:
-- React
-- Vue.js
-- AngularJS
-- Next.js
-- Nuxt.js
-- Bootstrap
-- Material UI
-
-State management:
-- Redux
-- Vuex
-- mobx-state-tree
-
-Tests:
-- Jest
-- Testing Library
-- AVA
-- Cucumber
-- Cypress
-
-Styles:
-- Styled-components
-- Emotion
-- CSS modules
-- LESS
-- post-css
-
-Building tools:
-- Webpack
-- Grunt
-
-Other:
-- GraphQL
-- Gatsby
-- Algolia
-- StoryBook
-- Contentful
-- yarn 
-- npm
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`2007 - 2014`
-__FEUP - Faculty of Engineering, Porto__
+`1654-1660`
+__The King's School, Grantham.__
 
-- Master in Electrical and Computer Enginnering
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
+
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
 
 
 
-## Languages
+## Awards
 
-- Portuguese - native
-- English - advanced
-- Spanish - basic
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
 
 <!-- ### Footer
 
-Last updated: Feb 2020 -->
+Last updated: May 2013 -->
 
 
