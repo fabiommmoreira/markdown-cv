@@ -49,7 +49,7 @@ Some of the technologies I've worked with:
 Javascript / TypeScript / HTML5 / CSS3 / GraphQL
 
 **Backend:**
-Node.js / pHp / SQL / Koa / TypeORM
+Node.js / SQL / Koa / TypeORM
 
 **Frameworks & libraries:**
 React / Vue.js / AngularJS / Next.js / Nuxt.js / Bootstrap / Material UI
@@ -70,7 +70,7 @@ Webpack / Grunt
 GitHub / GitLab / Bitbucket / AWS CodeCommit
 
 **Other:**
- Gatsby / Algolia / StoryBook / Contentful / yarn / npm
+ Gatsby / Algolia / StoryBook / Contentful /pHp / yarn / npm
 
 
 ## Education
