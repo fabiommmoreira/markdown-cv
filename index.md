@@ -88,6 +88,18 @@ __FEUP - Faculty of Engineering, Porto__
 - English - advanced
 - Spanish - basic
 
+### Conferences
+
+- DotJS & Dot CSS 2017
+- Performance.Now() 2018
+- Typeof 2019
+- Jamstack conf 2019
+
+### Workshops
+
+- React Advanced - Kitze
+- New Frontend Adventures Workshop - Vitaly Friedman
+
 <!-- ### Footer
 
 Last updated: Feb 2020 -->
